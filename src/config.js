@@ -1,7 +1,7 @@
 export const config = {
     RPC_URL: 'https://chtd-rpc.skynetvalidators.com',
     REST_URL: 'https://chtd-api.skynetvalidators.com',
-    EXPLORER_URL: 'https://chronic.zenscan.io',
+    EXPLORER_URL: 'https://skynetvalidators.com/chronic-token',
     STAKING_URL: 'https://chronicdex.netlify.app/stake',
     NETWORK_NAME: 'Chronic-Chain',
     NETWORK_TYPE: 'mainnet',
